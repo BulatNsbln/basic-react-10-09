@@ -8,7 +8,7 @@ import UserForm from './components/user-form'
 
 class App extends Component {
   state = {
-    openItem: null
+    isOpen: false
   }
 
   render() {
